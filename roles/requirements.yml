@@ -1,0 +1,2 @@
+# from Ansible Galaxy
+- src: redhat_sap.sap_rhsm
