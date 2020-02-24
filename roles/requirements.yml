@@ -1,2 +1,2 @@
-# from Ansible Galaxy
-- src: redhat_sap.sap_rhsm
+# from GitHub
+- src: https://github.com/linux-system-roles/storage
