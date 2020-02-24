@@ -1,2 +1,2 @@
-# from Ansible Galaxy
-- src: redhat_sap.sap_hana_deployment
+# from GitHub
+- src: https://github.com/linux-system-roles/sap-netweaver-preconfigure.git
