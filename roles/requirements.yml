@@ -1,2 +1,2 @@
-# from GitHub
-- src: https://github.com/linux-system-roles/sap-hana-preconfigure.git
+# from Ansible Galaxy
+- src: redhat_sap.sap_hana_deployment
