@@ -1,2 +1,3 @@
 # from Ansible Galaxy
 - src: redhat_sap.sap_hana_deployment
+  version: v1.1.0
