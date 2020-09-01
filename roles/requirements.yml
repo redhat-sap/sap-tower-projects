@@ -1,0 +1,3 @@
+# from Ansible Galaxy
+- src: redhat_sap.sap_hana_ha_pacemaker
+  version: v1.0.0
