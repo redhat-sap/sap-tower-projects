@@ -1,4 +1,0 @@
----
-- hosts: all
-  roles:
-    - { role: redhat_sap.sap_hostagent }
