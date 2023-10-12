@@ -1,3 +1,3 @@
 # from Ansible Galaxy
-- src: linux_system_roles.rhc
+- src: https://github.com/linux-system-roles/rhc.git
   version: 1.2.5
