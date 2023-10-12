@@ -3,6 +3,3 @@ roles:
 - src: https://github.com/linux-system-roles/rhc.git
   name: linux_system_roles.rhc
   version: 1.2.5
-collections:
-- name: community.general
-  version: ">=6.6.0"
